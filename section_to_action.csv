@@ -1,0 +1,113 @@
+section_id,action_id,action_sequence,conditions_required
+IPC_417,ACTION_001,Primary,Cheating is a cognizable offence; FIR must be registered when accused is identified
+IPC_417,ACTION_003,Primary,Send legal notice when attempting civil recovery alongside or before criminal complaint
+IPC_417,ACTION_005,Secondary,File private criminal complaint if police refuses to register FIR
+IPC_417,ACTION_021,Alternative,File civil suit for recovery if criminal route is not viable or to supplement it
+IPC_417,ACTION_027,Secondary,Seek police protection if accused is threatening to repeat fraud or cause harm
+IPC_417,ACTION_001,Primary,Minor cheating where property not delivered; still cognizable hence FIR first
+IPC_417,ACTION_005,Alternative,Private complaint if police refuses to register FIR for minor cheating
+IPC_411,ACTION_001,Primary,Breach of trust is cognizable; FIR must be filed immediately on discovery
+IPC_411,ACTION_003,Primary,Legal notice demanding return of entrusted property before or alongside criminal case
+IPC_411,ACTION_021,Alternative,Civil suit for recovery of entrusted property if criminal proceedings are delayed
+IPC_411,ACTION_005,Secondary,Private complaint before Magistrate if police refuses FIR registration
+IPC_378,ACTION_001,Primary,Theft is cognizable; FIR is first and mandatory action immediately after theft
+IPC_378,ACTION_027,Secondary,Apply for police protection if accused or their associates are threatening complainant
+IPC_379,ACTION_001,Primary,Punishment section accompanies 378; FIR always filed for both sections together
+IPC_379A,ACTION_001,Primary,Snatching is cognizable and FIR must be registered at nearest police station immediately
+IPC_379A,ACTION_027,Secondary,Apply for police protection if accused has threatened to snatch or harm again
+IPC_498A,ACTION_001,Primary,Domestic cruelty by husband is cognizable; FIR can be filed by wife or her relatives
+IPC_498A,ACTION_007,Primary,File DV complaint under PWDVA simultaneously for civil reliefs including residence order
+IPC_498A,ACTION_027,Secondary,Seek police protection or protection order from court during pendency of case
+IPC_498A,ACTION_013,Secondary,Apply for restraining injunction against husband if there is immediate threat
+IPC_498A,ACTION_008,Supporting,Husband may apply for anticipatory bail anticipating arrest under 498A
+IPC_498A,ACTION_009,Supporting,If husband is arrested bail application to be filed by his counsel
+IPC_304B,ACTION_001,Primary,Cognizable and non-bailable; FIR under 304B to be registered immediately
+IPC_304B,ACTION_078,Supporting,If case involves false evidence or tampering file perjury complaint against witnesses
+IPC_302,ACTION_001,Primary,Murder is cognizable non-bailable; FIR must be registered immediately
+IPC_302,ACTION_005,Supporting,Private complaint where police has closed case or delayed investigation
+IPC_302,ACTION_008,Supporting,Accused may apply for anticipatory bail in cases where arrest feared before FIR
+IPC_302,ACTION_009,Supporting,Accused after arrest must file regular bail application though unlikely to succeed in murder
+IPC_307,ACTION_001,Primary,Attempt to murder is cognizable non-bailable; FIR first mandatory action
+IPC_307,ACTION_002,Secondary,NC complaint for minor incidents where attempt element is borderline
+IPC_307,ACTION_027,Secondary,Immediate police protection for victim as accused likely to attempt again
+IPC_307,ACTION_013,Secondary,Restraining injunction against accused from approaching victim
+IPC_499,ACTION_059,Primary,File defamation suit in civil court for damages and injunction against publication
+IPC_499,ACTION_005,Alternative,File criminal complaint before Magistrate for criminal defamation under IPC 500
+IPC_499,ACTION_003,Primary,Send legal notice demanding retraction and apology before filing suit
+IPC_499,ACTION_013,Secondary,Apply for interim injunction to stop further publication of defamatory material
+IPC_500,ACTION_005,Primary,File criminal complaint in Magistrate court for punishment of defamer
+IPC_500,ACTION_003,Primary,Send legal notice before initiating criminal proceedings for defamation
+IPC_465,ACTION_001,Primary,Forgery is cognizable; FIR must be filed immediately upon discovering forged document
+IPC_465,ACTION_005,Alternative,Private criminal complaint before Magistrate if police declines FIR
+IPC_465,ACTION_096,Secondary,File suit for cancellation of forged sale deed or other forged document simultaneously
+IPC_467,ACTION_001,Primary,Forgery of valuable security is cognizable non-bailable; FIR immediately
+IPC_467,ACTION_096,Secondary,File civil suit to cancel the forged document and restore property to rightful owner
+IPC_468,ACTION_001,Primary,Forgery for cheating; FIR is primary action; cognizable offence
+IPC_471,ACTION_001,Primary,Using forged document; FIR to be filed when forged document is presented
+IPC_463,ACTION_001,Primary,Forgery FIR must be filed at police station as cognizable offence
+IPC_506,ACTION_001,Primary,Criminal intimidation is cognizable; FIR to be filed at local police station
+IPC_506,ACTION_027,Primary,Apply for police protection simultaneously when threats to life are received
+IPC_506,ACTION_013,Secondary,Restraining order application against accused to prevent further threats
+IPC_503,ACTION_001,Primary,FIR for criminal intimidation as cognizable offence
+IPC_503,ACTION_003,Secondary,Legal notice putting accused on notice that threats will lead to legal action
+IPC_507,ACTION_001,Primary,Anonymous threat FIR must seek CDR investigation to trace source of threat
+IPC_191,ACTION_078,Primary,File perjury complaint when false evidence is given in judicial proceedings
+IPC_191,ACTION_005,Primary,File criminal complaint before Magistrate under Section 191/193 for perjury
+IPC_192,ACTION_005,Primary,File criminal complaint for fabrication of false evidence before Magistrate
+IPC_193,ACTION_005,Primary,Punishment for false evidence; file through criminal complaint to Magistrate
+IPC_376,ACTION_001,Primary,Rape is cognizable non-bailable; FIR mandatory; zero FIR can be filed at any station
+IPC_376,ACTION_027,Primary,Immediate police protection for victim as accused may threaten victim or witnesses
+IPC_376,ACTION_008,Supporting,Accused may apply for anticipatory bail though courts are reluctant to grant in rape
+IPC_354,ACTION_001,Primary,Cognizable offence; FIR to be filed at police station; cannot be refused
+IPC_354,ACTION_027,Secondary,Apply for police protection if accused is known to victim and threats continue
+IPC_354,ACTION_033,Secondary,File complaint with Women's Commission for expedited action and support
+IPC_354A,ACTION_001,Primary,Sexual harassment is cognizable; FIR to be registered
+IPC_354A,ACTION_037,Primary,File POSH complaint with Internal Complaints Committee if workplace harassment
+IPC_354A,ACTION_033,Secondary,Approach Women's Commission for support and action against harasser
+IPC_354D,ACTION_001,Primary,Stalking is cognizable; FIR to be registered especially for repeat stalking
+IPC_354D,ACTION_013,Secondary,Apply for restraining order against stalker to prevent approaching victim
+IPC_354D,ACTION_027,Secondary,Police protection particularly if stalker is violent or threatening
+IPC_363,ACTION_001,Primary,Kidnapping is cognizable non-bailable; FIR mandatory at local station immediately
+IPC_363,ACTION_053,Secondary,File habeas corpus if child kidnapped by other parent for custody enforcement
+IPC_364A,ACTION_001,Primary,Kidnapping for ransom; FIR immediately; special investigating team usually formed
+IPC_326A,ACTION_001,Primary,Acid attack is cognizable non-bailable; FIR mandatory; emergency response
+IPC_326A,ACTION_032,Secondary,File human rights complaint with NHRC against state if protection was inadequate
+IPC_326A,ACTION_033,Secondary,Approach Women's Commission for support and victim rehabilitation assistance
+IPC_279,ACTION_001,Primary,Rash driving cognizable; FIR when injury or significant property damage occurs
+IPC_279,ACTION_058,Alternative,File MACT claim for compensation if accident caused injury or death
+IPC_304A,ACTION_001,Primary,Death by negligence; FIR to establish cause and negligence of accused
+IPC_304A,ACTION_058,Alternative,File MACT claim for compensation for negligent killing in road accident
+IPC_141,ACTION_001,Primary,Unlawful assembly members; FIR to be registered against all identifiable members
+IPC_146,ACTION_001,Primary,Rioting FIR is primary action against all participants in rioting
+IPC_147,ACTION_001,Primary,FIR for rioting punishment section registered with 141 and 146 together
+IPC_494,ACTION_001,Primary,Bigamy is cognizable; FIR to be filed by aggrieved spouse
+IPC_494,ACTION_010,Secondary,File divorce petition to dissolve second or first marriage on grounds of bigamy
+IPC_493,ACTION_001,Primary,Cohabitation by fraud; FIR to be filed by victim woman
+IPC_493,ACTION_010,Secondary,File petition for divorce from fraudulent marriage in family court
+IPC_171B,ACTION_001,Primary,Election bribery; FIR at local police station or report to Election Commission
+IPC_171B,ACTION_031,Secondary,File RTI to get election expenditure details if payments suspected undisclosed
+IPC_268,ACTION_002,Primary,Public nuisance is non-cognizable; NC complaint at police station
+IPC_268,ACTION_054,Secondary,File mandamus petition if municipal authority fails to remove public nuisance
+IPC_268,ACTION_036,Alternative,File NGT complaint if nuisance is environmental in nature causing pollution
+IPC_292,ACTION_001,Primary,Obscene material sale cognizable; FIR to be registered
+IPC_292,ACTION_051,Secondary,Seizure of obscene material to be done under court order alongside FIR
+IPC_489A,ACTION_001,Primary,Counterfeiting currency is cognizable; FIR mandatory; RBI and police involved
+IPC_411,ACTION_001,Secondary,FIR against receiver of stolen property alongside main theft FIR
+IPC_417,ACTION_030,Alternative,File cyber crime complaint when cheating occurs through online digital medium
+IPC_463,ACTION_030,Primary,Cyber crime like hacking must be reported to cyber crime cell or portal first
+IPC_463,ACTION_030,Primary,Identity theft online to be reported to cyber crime cell with digital evidence
+IPC_417,ACTION_030,Primary,Online cheating by impersonation to be reported to cyber crime portal
+IPC_417,ACTION_012,Primary,Cheque bounce case must follow NI Act procedure; legal notice then Magistrate complaint
+IPC_417,ACTION_003,Primary,Legal notice within 30 days of cheque bounce is mandatory prerequisite before filing
+IPC_505,ACTION_002,Primary,Non-cognizable offence; NC complaint first at police station
+IPC_505,ACTION_005,Alternative,Private complaint before Magistrate for statements causing public mischief
+IPC_509,ACTION_001,Primary,Insulting modesty of woman; cognizable; FIR to be filed
+IPC_509,ACTION_033,Secondary,Approach Women's Commission for additional support and action
+IPC_498A,ACTION_011,Secondary,File maintenance petition under CrPC 125 simultaneously for financial support
+IPC_498A,ACTION_098,Secondary,File child custody petition if children are being denied access or taken away
+IPC_302,ACTION_052,Secondary,File contempt petition if court orders regarding investigation are not followed
+IPC_376,ACTION_009,Supporting,After arrest of accused file for bail denial extension if accused applies for bail
+IPC_326B,ACTION_001,Primary,Attempted acid attack cognizable; FIR immediately; treat as attempt to murder
+IPC_341,ACTION_001,Primary,Wrongful restraint cognizable; FIR to be filed
+IPC_342,ACTION_001,Primary,Wrongful confinement cognizable; FIR to be filed immediately
+IPC_342,ACTION_053,Alternative,File habeas corpus if person is illegally confined by private party or authority

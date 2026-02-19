@@ -1,0 +1,77 @@
+parent_section_id,child_section_id,relationship_type,explanation
+IPC_300,IPC_302,Prerequisite,Section 300 defines murder; Section 302 provides punishment. 302 cannot be charged without establishing ingredients under 300
+IPC_378,IPC_379,Prerequisite,Section 378 defines theft; Section 379 is the punishment provision always charged alongside 378 as they are inseparable
+IPC_499,IPC_500,Prerequisite,Section 499 defines defamation; Section 500 provides punishment. Cannot charge 500 without proving 499 ingredients
+IPC_503,IPC_506,Prerequisite,Section 503 defines criminal intimidation; Section 506 provides punishment. Always charged together in intimidation cases
+IPC_191,IPC_193,Prerequisite,Section 191 defines giving false evidence; Section 193 provides punishment. 193 applies to both 191 and 192
+IPC_463,IPC_465,Prerequisite,Section 463 defines forgery; Section 465 provides basic punishment always charged with definition sections
+IPC_141,IPC_147,Prerequisite,Section 141 defines unlawful assembly; Section 147 is punishment for rioting which requires unlawful assembly
+IPC_146,IPC_147,Prerequisite,Section 146 defines rioting; Section 147 provides punishment always charged with rioting cases
+IPC_417,IPC_417,Complements,Both sections deal with cheating; 417 is minor cheating without property delivery; 420 is aggravated cheating with property delivery
+IPC_499,IPC_501,Complements,Section 501 complements 499 specifically covering printing of defamatory matter; more specific than general 499
+IPC_499,IPC_502,Complements,Section 502 complements 499 specifically covering sale of printed defamatory matter; extends liability to sellers
+IPC_463,IPC_466,Complements,Section 466 is a specific form of forgery targeting court records; more specific than general forgery under 463
+IPC_463,IPC_467,Complements,Section 467 is aggravated forgery of valuable security or will; higher punishment than basic forgery under 465
+IPC_463,IPC_468,Complements,Section 468 is forgery specifically for purpose of cheating; combined with cheating provisions
+IPC_463,IPC_470,Complements,Section 470 defines a forged document; definitional section that supports other forgery charging sections
+IPC_463,IPC_471,Complements,Section 471 punishes using forged document knowing it to be forged; complements making of forged document
+IPC_378,IPC_379A,Complements,Section 379A is snatching which is a specific form of theft with sudden force; more specific than basic theft
+IPC_379A,IPC_379B,Complements,Section 379B is enhanced punishment for snatching when hurt is caused; supplements basic snatching under 379A
+IPC_300,IPC_304A,Complements,Section 304A covers death by negligence which is not intentional and falls outside murder definition in 300
+IPC_302,IPC_307,Complements,Section 307 covers attempt to murder when death does not result; complement to completed murder under 302
+IPC_302,IPC_304B,Complements,Section 304B covers dowry death which is a specific presumptive form of culpable homicide; complements murder provisions
+IPC_354,IPC_354A,Complements,Section 354A specifically covers sexual harassment forms of assault on women; more specific than general 354
+IPC_354,IPC_354D,Complements,Section 354D covers stalking specifically; complement to general outraging modesty provisions
+IPC_326A,IPC_326B,Complements,Section 326B covers attempt acid attack; complements completed acid attack causing grievous hurt under 326A
+IPC_141,IPC_146,Complements,Section 146 defines rioting using force; complement to 141 which defines unlawful assembly prerequisite
+IPC_141,IPC_147,Complements,Section 148 covers rioting with deadly weapons; more aggravated form complementing basic rioting provisions
+IPC_141,IPC_141,Complements,Section 149 makes every member of unlawful assembly liable for acts done in common object; complements 141
+IPC_363,IPC_364A,Complements,Section 364A covers aggravated kidnapping for ransom; complements general kidnapping under 363
+IPC_191,IPC_192,Complements,Section 192 covers fabricating false evidence while 191 covers giving false evidence; together cover all false evidence scenarios
+IPC_191,IPC_197,Complements,Section 197 covers false certificates; specific complement to general false evidence provisions under 191
+IPC_191,IPC_198,Complements,Section 198 covers using false certificate; complements issuing false certificate under 197
+IPC_171A,IPC_171B,Prerequisite,Section 171A defines candidates and electoral right; prerequisite definitional section for all election offences
+IPC_171A,IPC_171C,Prerequisite,Section 171A definitions apply to undue influence under 171C; prerequisite definitional linkage
+IPC_171A,IPC_171D,Prerequisite,Section 171A definitions underpin personation at elections under 171D
+IPC_171B,IPC_171E,Prerequisite,Section 171B defines bribery; Section 171E provides punishment; always charged together
+IPC_171C,IPC_171F,Prerequisite,Section 171C defines undue influence; Section 171F provides punishment for undue influence and personation
+IPC_268,IPC_290,Complements,Section 290 provides punishment for public nuisance in cases not covered elsewhere; supplements 268
+IPC_272,IPC_273,Complements,Section 272 covers adulteration of food; Section 273 covers sale of noxious food; together address food safety violations
+IPC_274,IPC_275,Complements,Section 274 covers adulteration of drugs; Section 275 covers sale of adulterated drugs; together cover drug adulteration
+IPC_489A,IPC_489B,Complements,Section 489B covers using counterfeit currency; complements making of counterfeit currency under 489A
+IPC_489A,IPC_489C,Complements,Section 489C covers possession of counterfeit currency; supplements making offence under 489A
+IPC_489A,IPC_489D,Complements,Section 489D covers tools for counterfeiting; complements all counterfeiting offences under 489A onwards
+IPC_489A,IPC_489E,Complements,Section 489E covers documents resembling currency; complements core counterfeiting provisions
+IPC_493,IPC_494,Complements,Both sections address marriage fraud; 493 covers deceitful cohabitation; 494 covers bigamy; often co-occurring
+IPC_494,IPC_495,Complements,Section 495 is aggravated bigamy where former marriage is concealed; supplements basic bigamy under 494
+IPC_494,IPC_496,Complements,Section 496 covers fraudulent marriage ceremonies; complements actual bigamy offence under 494
+IPC_498A,IPC_304B,Complements,Section 304B covers dowry death as outcome of persistent cruelty covered under 498A; natural progression
+IPC_498A,IPC_304B,Complements,Section 306 abetment of suicide complements cruelty provisions when persistent 498A cruelty drives victim to suicide
+IPC_425,IPC_426,Prerequisite,Section 425 defines mischief; Section 426 provides basic punishment always charged with definition
+IPC_425,IPC_427,Complements,Section 427 is aggravated mischief causing Rs 50 damage; more serious than basic mischief under 426
+IPC_425,IPC_435,Complements,Section 435 covers mischief by fire; most serious form of mischief complementing basic provisions
+IPC_425,IPC_436,Complements,Section 436 covers mischief destroying house by fire; most aggravated specific form of mischief
+IPC_395,IPC_396,Complements,Section 396 is dacoity with murder; most aggravated form complementing basic dacoity under 395
+IPC_411,IPC_414,Complements,Section 414 covers assisting concealment of stolen property; complements receiving stolen property under 411
+IPC_341,IPC_342,Complements,Section 341 defines wrongful restraint; Section 342 defines wrongful confinement which is more serious; degrees of same wrong
+IPC_300,IPC_305,Complements,Section 305 is abetment of suicide of child or insane person; complements homicidal offences under 300
+IPC_312,IPC_313,Complements,Section 313 is causing miscarriage without woman consent; aggravated form complementing 312
+IPC_504,IPC_506,Complements,Both deal with provocative and threatening communications; 504 is insulting; 506 is threatening; often co-charged
+IPC_507,IPC_506,Complements,Section 507 supplements 506 by adding punishment for anonymous intimidation; same base offence with anonymity aggravating factor
+IPC_509,IPC_354,Complements,Section 509 covers insulting modesty through words or gestures; lesser form complementing physical assault under 354
+IPC_497,IPC_494,Contradicts,Section 497 adultery was struck down by SC in 2018; conflicts with 494 bigamy in matrimonial law landscape; 497 no longer applicable
+IPC_300,IPC_307,Complements,Section 307 attempt to murder is charged when act done with murder intent but death does not result; mirrors 302 in intent
+IPC_417,IPC_411,Complements,Cheating under 417/420 and criminal breach of trust under 406 both address dishonest property taking; often confused but distinct
+IPC_411,IPC_411,Complements,Section 409 is aggravated criminal breach of trust by public servants or bankers; complements basic 406
+IPC_463,IPC_489A,Complements,Both involve falsification; forgery under 463 covers documents while 489A covers currency counterfeiting; same fraudulent intent
+IPC_268,IPC_294,Complements,Section 294 obscene acts in public is specific form of public nuisance covered generally under 268; more specific provision
+IPC_295,IPC_295A,Complements,Section 295 covers physical desecration of religious places; 295A covers intentional insult through acts; two aspects of religious offences
+IPC_295,IPC_296,Complements,Section 296 disturbing religious assembly is specific religious offence complementing 295 desecration
+IPC_295,IPC_297,Complements,Section 297 trespass on burial places complements 295 covering religious and sacred spaces
+IPC_295A,IPC_298,Complements,Section 298 covers wounding religious feelings through utterances; milder complement to 295A malicious acts
+IPC_310,IPC_311,Prerequisite,Section 310 defines Thug; Section 311 provides punishment; definitional-punishment pair inseparable
+IPC_141,IPC_310,Complements,Both sections address organized criminal groups; unlawful assembly under 141 is broader; thug under 310 is specific criminal gang
+IPC_379,IPC_395,Complements,Section 395 dacoity is aggravated robbery by five or more persons; complements simple theft under 379 at higher scale
+IPC_498A,IPC_498,Complements,Section 498 covers enticing away a married woman; Section 498A covers cruelty; distinct but both in matrimonial context
+IPC_171G,IPC_171H,Complements,Section 171G covers false election statements; Section 171H covers illegal payments; related election offences often co-occurring
+IPC_191,IPC_466,Complements,Section 466 forgery of court records directly complements false evidence provisions under 191; both target judicial process integrity

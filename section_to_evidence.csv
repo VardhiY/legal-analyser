@@ -1,0 +1,157 @@
+section_id,evidence_id,necessity_level,how_it_proves
+IPC_417,EVID_001,Must-have,FIR is primary document establishing when and how cheating complaint was reported and establishes timeline
+IPC_417,EVID_004,Must-have,Bank statements prove money was transferred to accused and trace the fraudulent transaction trail
+IPC_417,EVID_007,Must-have,Identity proof establishes identity of complainant and links accused to fraudulent transaction
+IPC_417,EVID_010,Good-to-have,WhatsApp conversations show false promises made by accused to induce victim to part with money
+IPC_417,EVID_013,Good-to-have,Email correspondence documents written false representations and promises made by accused
+IPC_417,EVID_009,Supporting,Eyewitness statements corroborate cheating transaction if any third party was present
+IPC_417,EVID_053,Must-have,Payment app transaction records provide direct proof of money transfer to accused's account
+IPC_417,EVID_044,Good-to-have,Affidavit from victim detailing circumstances of how they were deceived
+IPC_411,EVID_001,Must-have,FIR establishes formal complaint of breach of trust and timestamp of reporting
+IPC_411,EVID_041,Must-have,Promissory note or trust receipt proves that property was specifically entrusted to accused
+IPC_411,EVID_004,Must-have,Bank statements show entrustment amount and trace misappropriation by accused
+IPC_411,EVID_044,Good-to-have,Affidavit from complainant explaining terms of entrustment and subsequent misappropriation
+IPC_411,EVID_009,Supporting,Eyewitness to the entrustment transaction corroborates that property was given to accused
+IPC_411,EVID_013,Good-to-have,Email or written correspondence documenting the trust reposed and terms of entrustment
+IPC_378,EVID_001,Must-have,FIR immediately after theft preserves details of stolen property and incident timing
+IPC_378,EVID_007,Good-to-have,Identity proof of complainant establishes who owned the stolen property
+IPC_378,EVID_006,Good-to-have,CCTV footage may capture the theft in progress and identify the perpetrator
+IPC_378,EVID_009,Good-to-have,Eyewitness statement from person who saw the theft or thief
+IPC_378,EVID_017,Good-to-have,Seized stolen property found with accused links accused directly to theft
+IPC_378,EVID_012,Supporting,Purchase invoice or bill proves victim's ownership of stolen item before theft
+IPC_498A,EVID_002,Must-have,Medical examination report documents physical injuries caused by domestic violence
+IPC_498A,EVID_016,Must-have,Marriage certificate proves legal marital relationship making section applicable
+IPC_498A,EVID_001,Must-have,FIR establishes formal complaint with specific allegations of cruelty against accused
+IPC_498A,EVID_010,Good-to-have,WhatsApp messages showing abusive messages threats or harassment pattern from accused
+IPC_498A,EVID_009,Good-to-have,Eyewitness testimony from neighbours family members or friends who witnessed cruelty
+IPC_498A,EVID_039,Good-to-have,Audio recordings of abusive incidents captures actual threats and abusive language
+IPC_498A,EVID_040,Good-to-have,Video recording of abuse incidents or its aftermath showing injuries
+IPC_498A,EVID_044,Supporting,Victim's affidavit detailing history of cruelty incidents with dates and nature
+IPC_304B,EVID_018,Must-have,Death certificate is primary proof that victim died within 7 years of marriage
+IPC_304B,EVID_077,Must-have,Post-mortem report establishes unnatural cause of death and nature of injuries
+IPC_304B,EVID_016,Must-have,Marriage certificate proves marriage occurred and establishes 7-year timeframe
+IPC_304B,EVID_009,Must-have,Eyewitness statements from family and neighbours regarding dowry demands and harassment
+IPC_304B,EVID_002,Good-to-have,Medical records of prior injuries showing pattern of violence before death
+IPC_304B,EVID_010,Good-to-have,WhatsApp messages showing dowry demands made by accused or their family
+IPC_304B,EVID_039,Supporting,Audio recordings of dowry demands or harassment if preserved by victim
+IPC_302,EVID_018,Must-have,Death certificate establishes fact of death of victim
+IPC_302,EVID_077,Must-have,Post-mortem report is critical evidence establishing cause and manner of death
+IPC_302,EVID_001,Must-have,FIR establishes when and where murder was reported and initial facts on record
+IPC_302,EVID_029,Must-have,Forensic evidence such as DNA fingerprints blood links accused to crime scene and victim
+IPC_302,EVID_017,Good-to-have,Weapon or instrument used for murder establishes method and links to accused
+IPC_302,EVID_006,Good-to-have,CCTV footage of accused near crime scene at time of murder
+IPC_302,EVID_009,Good-to-have,Eyewitness testimony of persons who saw accused commit murder
+IPC_302,EVID_019,Supporting,Call detail records establish accused's location and communications around time of murder
+IPC_307,EVID_001,Must-have,FIR with specific allegations of attempt to murder documents the incident
+IPC_307,EVID_002,Must-have,Medical examination report documents injuries to victim and severity of attack
+IPC_307,EVID_017,Good-to-have,Weapon used in attack links accused directly to attempt to murder
+IPC_307,EVID_029,Good-to-have,Forensic evidence links accused to crime scene and victim
+IPC_307,EVID_009,Good-to-have,Eyewitness account of the attack establishes identity of attacker and nature of act
+IPC_307,EVID_006,Supporting,CCTV footage capturing the attack attempt if available
+IPC_499,EVID_025,Must-have,Social media posts screenshots capturing defamatory content with URL and timestamp
+IPC_499,EVID_013,Must-have,Email correspondence containing defamatory statements with full headers
+IPC_499,EVID_009,Good-to-have,Witness statements from persons who read or heard the defamatory statement
+IPC_499,EVID_015,Good-to-have,Legal notice sent to accused demanding retraction prior to filing complaint
+IPC_499,EVID_044,Supporting,Affidavit detailing how defamatory publication caused specific reputational and financial harm
+IPC_500,EVID_025,Must-have,Social media posts or publications directly proving publication of defamatory matter
+IPC_500,EVID_007,Good-to-have,Identity proof connecting accused to the defamatory publication or statement
+IPC_465,EVID_005,Must-have,Original title deed or property document to compare with forged version
+IPC_465,EVID_029,Must-have,Forensic handwriting examination report proving document is forged
+IPC_465,EVID_007,Must-have,Identity proof to establish who the forger is and who signed the document
+IPC_465,EVID_009,Good-to-have,Witness statement from person who was present when original document was executed
+IPC_465,EVID_054,Good-to-have,Court orders related to property establishing authentic ownership chain
+IPC_467,EVID_005,Must-have,Original property documents for comparison with alleged forged document
+IPC_467,EVID_029,Must-have,Forensic document examination proving forgery of valuable security
+IPC_467,EVID_049,Good-to-have,Encumbrance certificate showing chain of title to detect when forgery was inserted
+IPC_471,EVID_005,Good-to-have,Authentic original document proving the document used was forged
+IPC_471,EVID_044,Must-have,Affidavit or testimony showing accused knowingly used document knowing it to be forged
+IPC_471,EVID_029,Must-have,Forensic report confirming the document is indeed a forgery
+IPC_506,EVID_039,Must-have,Audio recording of threat if available is strongest direct evidence of intimidation
+IPC_506,EVID_010,Must-have,WhatsApp or SMS messages containing threatening messages with date and time
+IPC_506,EVID_019,Good-to-have,Call detail records showing calls made by accused at time threats were made
+IPC_506,EVID_009,Good-to-have,Eyewitness who heard the threat can corroborate complainant's account
+IPC_506,EVID_025,Good-to-have,Social media threats or posts targeting complainant with harmful content
+IPC_506,EVID_001,Must-have,FIR promptly filed preserving details of threats including exact words used
+IPC_503,EVID_039,Must-have,Audio recording directly proves making of threatening communication
+IPC_503,EVID_010,Must-have,WhatsApp/SMS messages with threatening content prove communication of threat
+IPC_503,EVID_019,Good-to-have,CDR records prove calls were made from accused's number to complainant
+IPC_191,EVID_054,Must-have,Court proceedings record showing statement was made on oath in judicial proceeding
+IPC_191,EVID_009,Good-to-have,Contradictory witness statements or other evidence proving the statement was false
+IPC_191,EVID_044,Good-to-have,Affidavit from complainant explaining how accused's statement was materially false
+IPC_193,EVID_054,Must-have,Court record proving oath was administered and statement made on record
+IPC_193,EVID_029,Supporting,Forensic or other scientific evidence contradicting false statement made in court
+IPC_376,EVID_002,Must-have,Medical examination by doctor within 24 hours is most critical evidence in rape case
+IPC_376,EVID_029,Must-have,Forensic DNA evidence linking accused to sexual assault
+IPC_376,EVID_001,Must-have,FIR filed immediately after incident is essential for prosecution
+IPC_376,EVID_007,Good-to-have,Victim identity proof and accused identity proof establishing parties
+IPC_376,EVID_040,Supporting,Video evidence if any capturing assault or its immediate aftermath
+IPC_376,EVID_009,Supporting,Eyewitness testimony if any third party witnessed the incident
+IPC_354,EVID_002,Must-have,Medical report documenting physical injuries from assault on woman
+IPC_354,EVID_001,Must-have,FIR filed at time of incident preserving details of assault
+IPC_354,EVID_009,Good-to-have,Eyewitness testimony corroborating victim's account of outrage of modesty
+IPC_354,EVID_040,Supporting,Video recording capturing the act if available
+IPC_354A,EVID_010,Must-have,WhatsApp messages or texts containing sexual remarks or demands
+IPC_354A,EVID_025,Good-to-have,Social media messages with sexual content from accused to victim
+IPC_354A,EVID_039,Good-to-have,Audio recordings of verbal sexual harassment or demands
+IPC_354A,EVID_009,Supporting,Colleague or bystander witness to sexual harassment incident
+IPC_354D,EVID_019,Must-have,CDR showing repeated calls from accused to victim demonstrating pattern of contact
+IPC_354D,EVID_010,Must-have,WhatsApp messages showing repeated unwanted contact and following
+IPC_354D,EVID_034,Good-to-have,GPS location data proving accused was repeatedly near victim's residence or workplace
+IPC_354D,EVID_025,Good-to-have,Social media activity showing accused monitoring or contacting victim online
+IPC_363,EVID_007,Must-have,Identity proof of kidnapped person and complainant establishing age and relationship
+IPC_363,EVID_006,Good-to-have,CCTV footage showing kidnapping or accused with kidnapped person
+IPC_363,EVID_019,Good-to-have,CDR showing calls made by accused and location at time of kidnapping
+IPC_363,EVID_009,Good-to-have,Eyewitness account of the abduction incident
+IPC_364A,EVID_039,Must-have,Audio recording of ransom demand call is primary evidence in kidnapping for ransom
+IPC_364A,EVID_019,Must-have,CDR of ransom demand calls establishing accused as source of calls
+IPC_364A,EVID_004,Good-to-have,Bank statements showing ransom payment transaction if ransom was paid
+IPC_326A,EVID_002,Must-have,Medical report documenting acid burns and extent of injuries from attack
+IPC_326A,EVID_029,Must-have,Forensic analysis of substance identifying it as acid or corrosive material
+IPC_326A,EVID_006,Good-to-have,CCTV footage capturing attack or accused near scene immediately before after
+IPC_326A,EVID_009,Good-to-have,Eyewitness account of acid attack
+IPC_326A,EVID_058,Must-have,Chemical samples for forensic analysis to identify the corrosive substance used
+IPC_279,EVID_032,Must-have,Driving license of accused proves they were authorised or unauthorised driver
+IPC_279,EVID_033,Must-have,Vehicle RC establishes ownership and registration of vehicle involved
+IPC_279,EVID_002,Must-have,Medical report of injured person in accident
+IPC_279,EVID_006,Good-to-have,CCTV or dashcam footage proving rash and negligent driving
+IPC_279,EVID_009,Good-to-have,Eyewitness account of rash driving incident
+IPC_279,EVID_035,Good-to-have,Vehicle insurance documents establishing insurance coverage
+IPC_141,EVID_006,Must-have,CCTV footage of riot or unlawful assembly identifying members and acts
+IPC_141,EVID_040,Must-have,Video recordings of unlawful assembly showing accused participating
+IPC_141,EVID_009,Good-to-have,Eyewitness testimony identifying accused as member of unlawful assembly
+IPC_141,EVID_001,Must-have,FIR with details of unlawful assembly and specific roles of accused
+IPC_147,EVID_006,Must-have,CCTV or video footage of rioting proves force and violence used
+IPC_147,EVID_002,Good-to-have,Medical reports of persons injured during riot
+IPC_147,EVID_009,Must-have,Eyewitness accounts identifying specific accused and their acts during riot
+IPC_494,EVID_016,Must-have,First marriage certificate proves subsisting valid marriage at time of second marriage
+IPC_494,EVID_016,Must-have,Second marriage certificate or proof of marriage ceremony proves bigamy
+IPC_494,EVID_009,Good-to-have,Eyewitness from first and second marriage ceremonies
+IPC_494,EVID_007,Good-to-have,Identity proof linking same person to both marriages
+IPC_463,EVID_029,Must-have,Forensic handwriting examination proving document signature is forged
+IPC_463,EVID_007,Must-have,Identity documents of actual person whose signature was forged
+IPC_463,EVID_009,Good-to-have,Witness who can confirm original document was genuine and accused created fake
+IPC_171B,EVID_004,Must-have,Bank statements showing payments made in exchange for votes or electoral influence
+IPC_171B,EVID_039,Good-to-have,Audio recording of bribery offer or demand in election context
+IPC_171B,EVID_009,Good-to-have,Eyewitness to bribery transaction in election context
+IPC_268,EVID_006,Good-to-have,Video or photographic evidence of public nuisance condition
+IPC_268,EVID_009,Good-to-have,Affidavits from affected public members describing harm caused by nuisance
+IPC_268,EVID_044,Good-to-have,Expert opinion on nature and extent of harm caused by public nuisance
+IPC_292,EVID_051,Must-have,Seized obscene material is primary physical evidence in obscenity case
+IPC_292,EVID_009,Good-to-have,Witness testimony regarding sale or distribution of obscene material
+IPC_292,EVID_007,Good-to-have,Identity of accused linking them to sale or distribution of obscene material
+IPC_379A,EVID_001,Must-have,FIR filed immediately after snatching preserving vehicle or item description
+IPC_379A,EVID_006,Good-to-have,CCTV footage of snatching incident identifying accused
+IPC_379A,EVID_033,Must-have,Vehicle RC proves ownership of snatched vehicle if vehicle is subject of snatching
+IPC_379A,EVID_009,Good-to-have,Eyewitness account of snatching including description of accused
+IPC_395,EVID_001,Must-have,FIR establishing five or more accused and use of force in dacoity
+IPC_395,EVID_002,Good-to-have,Medical reports of victims injured during dacoity
+IPC_395,EVID_006,Good-to-have,CCTV footage of dacoity identifying multiple accused and their roles
+IPC_395,EVID_017,Good-to-have,Weapons recovered from accused linking them to dacoity
+IPC_311,EVID_009,Must-have,Witness testimony identifying accused as member of known criminal gang or thug group
+IPC_504,EVID_039,Good-to-have,Audio or video recording of insulting language used by accused
+IPC_504,EVID_009,Must-have,Eyewitness to insulting and provoking statements made by accused
+IPC_505,EVID_025,Must-have,Screenshots of false statements or rumours spread on social media or print
+IPC_505,EVID_009,Good-to-have,Witness testimony about statements made that caused public mischief
+IPC_489A,EVID_058,Must-have,Scientific examination of counterfeit currency note proving it is fake
+IPC_489A,EVID_051,Must-have,Seized counterfeit notes as physical evidence
+IPC_489A,EVID_029,Must-have,Forensic report confirming notes are counterfeit

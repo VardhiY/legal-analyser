@@ -1,0 +1,106 @@
+section_id,case_type_id,relevance_score,conditions,exceptions
+IPC_417,CHEATING_01,0.95,When accused dishonestly induces victim to hand over money or property using false pretences,Does not apply when transaction is purely civil in nature with no fraudulent intent
+IPC_417,CHEATING_01,1.0,Primary section for cheating involving delivery of property or alteration of documents,Does not apply to breach of civil contract without dishonest intent
+IPC_417,CHEATING_02,0.95,When online or offline fraud involves inducing victim to part with money,Does not apply when victim voluntarily gave money knowing risks
+IPC_417,CHEATING_02,1.0,Core section whenever cheating results in delivery of property or money loss,Does not apply to failed promises that are merely civil in nature
+IPC_463,CHEATING_02,0.75,When cheating involved use of forged documents to deceive,Only applies if forgery element is separately proved
+IPC_468,CHEATING_02,0.85,When forgery was committed specifically for purpose of cheating victim,Both forgery and cheating must be established
+IPC_411,CRIMINAL_BREACH_TRUST_01,1.0,Primary section when property was entrusted and misappropriated,Does not apply where no trust relationship exists between parties
+IPC_411,CRIMINAL_BREACH_TRUST_01,0.90,When breach involves public servant or banker or merchant in official capacity,Applies only to persons in specific fiduciary roles
+IPC_417,CRIMINAL_BREACH_TRUST_01,0.80,Definition section that establishes what constitutes criminal breach of trust,Background section; not charged standalone
+IPC_378,THEFT_01,1.0,Primary section whenever movable property is taken dishonestly without consent,Does not apply when taking was under bona fide claim of right
+IPC_379,THEFT_01,0.95,Punishment section that always accompanies Section 378 charge,Applies alongside 378 always
+IPC_378,THEFT_02,1.0,Core section for all theft scenarios involving movable property,Does not apply to property disputes where ownership itself is disputed
+IPC_379,THEFT_02,0.95,Punishment always charged with 378 in theft cases,Applies alongside 378 always
+IPC_379A,THEFT_02,0.70,Applies specifically to vehicle theft using criminal force,Only for theft of vehicles with force element
+IPC_411,THEFT_01,0.60,When stolen property is found with another person who received it knowing it was stolen,Requires knowledge of property being stolen
+IPC_411,THEFT_02,0.60,When stolen property found with a receiver or fence,Applies when receiver had knowledge of theft
+IPC_354,ASSAULT_01,0.90,When accused made gesture or preparation with intention to cause apprehension of force,No actual physical contact needed; apprehension of force sufficient
+IPC_341,ASSAULT_01,0.85,When criminal force used without grave provocation,Grave and sudden provocation may reduce charge
+IPC_341,ASSAULT_01,0.95,When voluntary hurt is caused to victim,Applies only when hurt is voluntarily inflicted
+IPC_326A,ASSAULT_01,0.75,When grievous hurt is caused; serious injuries,Only for grievous hurt as defined in IPC 320
+IPC_326A,ASSAULT_01,0.65,When acid or corrosive substance is thrown causing grievous hurt,Specific to acid attack situations only
+IPC_354,ASSAULT_01,0.60,When assault on woman is intended to outrage her modesty,Only applicable when victim is woman and modesty element present
+IPC_498A,DOMESTIC_VIOLENCE_01,1.0,Primary IPC section for cruelty by husband or relatives in domestic setting,Does not apply to domestic violence by persons outside husband/relatives
+IPC_304B,DOMESTIC_VIOLENCE_01,0.80,When domestic violence results in death within 7 years of marriage and dowry connected,Applies only when death occurs under specific dowry-connected circumstances
+IPC_304B,DOMESTIC_VIOLENCE_01,0.70,When victim of domestic violence is driven to commit suicide,Requires proof that accused abetted suicide
+IPC_354,DOMESTIC_VIOLENCE_01,0.65,When domestic violence involves sexual assault or outrage of modesty,Applies when sexual aspect of violence present
+IPC_506,DOMESTIC_VIOLENCE_01,0.75,When threats form part of domestic abuse pattern,Applies when threats to life or serious injury made
+IPC_498A,DOMESTIC_CRUELTY_02,1.0,Primary section specifically targeting cruelty by husband and in-laws,Does not apply against wife or her relatives
+IPC_304B,DOMESTIC_CRUELTY_02,0.90,When cruelty leads to bride's unnatural death connected to dowry demands,Specific to dowry-related deaths within 7 years of marriage
+IPC_304B,DOMESTIC_CRUELTY_02,0.75,When persistent cruelty abets suicide of woman,Need to establish abetment and mens rea
+IPC_425,TENANT_DISPUTE_01,0.70,Transfer of Property Act provisions govern landlord-tenant relations,State-specific Rent Control Acts may override general TPA provisions
+IPC_417,TENANT_DISPUTE_01,0.50,When tenant criminally misappropriates security deposit or property entrusted,Only when there is clear entrustment and criminal intent in misappropriation
+IPC_342,TENANT_DISPUTE_01,0.65,When either landlord or tenant commits criminal trespass,Applies when one party enters property without right to do so
+IPC_425,TENANT_DISPUTE_01,0.55,When tenant causes damage to rented premises,Requires proof of intentional or negligent damage to property
+IPC_425,PROPERTY_DISPUTE_01,0.80,Transfer of Property Act governs rights and disputes over immovable property,Does not apply to movable property disputes
+IPC_463,PROPERTY_DISPUTE_01,0.75,When property dispute involves forged title deeds or sale deeds,Applicable only when fraudulent documents are primary cause of dispute
+IPC_467,PROPERTY_DISPUTE_01,0.85,When forged property documents of high value are involved,Specific to forgery of valuable security deeds wills
+IPC_471,PROPERTY_DISPUTE_01,0.80,When forged property documents are used to claim or transfer title,Both forgery and use must be established
+IPC_417,PROPERTY_DISPUTE_01,0.70,When property transfer was induced by fraud or misrepresentation,Requires dishonest inducement to hand over property
+IPC_342,PROPERTY_DISPUTE_01,0.65,When party forcibly enters property they have no right to enter,Requires entry into property without consent or right
+IPC_342,EMPLOYMENT_TERMINATION_01,0.40,When employer wrongfully confines employee preventing them from leaving,Unusual situation; applies only to physical confinement
+IPC_506,EMPLOYMENT_TERMINATION_01,0.50,When employer uses threats during termination or service period,Applies only when threats to harm are made in employment context
+IPC_191,FALSE_EVIDENCE_01,1.0,Primary section whenever false evidence is given on oath in proceedings,Requires evidence to be given on oath in legal proceedings
+IPC_192,FALSE_EVIDENCE_01,0.90,When false evidence is fabricated rather than given orally,Applies to creating fake documents or records
+IPC_193,FALSE_EVIDENCE_01,0.95,Punishment section that is always charged along with 191 or 192,Always paired with the substantive section
+IPC_197,FALSE_EVIDENCE_01,0.75,When false certificate is issued by authority,Applies only to persons authorised to issue certificates
+IPC_198,FALSE_EVIDENCE_01,0.70,When false certificate is used knowing it to be false,Requires knowledge of falsity at time of use
+IPC_499,DEFAMATION_01,1.0,Primary section defining defamation; applies to all false statements harming reputation,Does not apply to true statements made in public interest
+IPC_500,DEFAMATION_01,0.95,Punishment section always charged alongside 499,Always accompanies Section 499
+IPC_501,DEFAMATION_01,0.80,When defamatory content was printed or engraved for distribution,Specific to print media newspapers or published materials
+IPC_502,DEFAMATION_01,0.70,When printed defamatory material was sold or offered for sale,Requires commercial distribution element
+IPC_499,DEFAMATION_02,1.0,Core section for all defamation cases including social media,Truth and public good are complete defences
+IPC_500,DEFAMATION_02,0.95,Punishment section paired with 499 in criminal defamation,Always accompanies 499
+IPC_505,DEFAMATION_02,0.65,When defamatory statements cause public mischief or communal disharmony,Applies when statement affects public at large beyond individual
+IPC_506,CRIMINAL_INTIMIDATION_01,1.0,Primary section when threats are made to cause fear or compel action,Does not apply to vague or non-specific expressions of displeasure
+IPC_503,CRIMINAL_INTIMIDATION_01,0.90,Definition section establishing what constitutes criminal intimidation,Must establish intent to cause alarm or compel illegal action
+IPC_507,CRIMINAL_INTIMIDATION_01,0.75,When threats are made anonymously by concealing identity,Applies additionally when identity concealment element is present
+IPC_509,CRIMINAL_INTIMIDATION_01,0.60,When threats target woman's modesty through words gestures or objects,Specific to threats targeting women's dignity or modesty
+IPC_417,CHEQUE_BOUNCE_01,1.0,Primary section of NI Act for dishonoured cheques due to insufficient funds,Requires legally enforceable debt and prior demand through legal notice
+IPC_417,CHEQUE_BOUNCE_01,0.65,When cheque was issued with fraudulent intent knowing it would bounce,Requires proof of dishonest intent at time of issuing cheque
+IPC_494,MATRIMONIAL_DISPUTE_01,0.80,When bigamy is alleged in matrimonial cases,Applies only when prior marriage is legally subsisting at time of second marriage
+IPC_493,MATRIMONIAL_DISPUTE_01,0.70,When marriage was entered into through fraud or deceit,Applicable when consent was obtained by deception
+IPC_498A,MATRIMONIAL_DISPUTE_01,0.90,When matrimonial dispute involves cruelty by husband or relatives,Most commonly invoked section in matrimonial disputes by wife
+IPC_304B,MATRIMONIAL_DISPUTE_01,0.65,When matrimonial dispute involves suspected dowry death,Only when death is unnatural and connected to dowry demands
+IPC_494,ADULTERY_01,0.60,When partner in adultery relationship was married; bigamy angle,Second marriage must be shown to establish this section
+IPC_497,ADULTERY_01,0.50,Historical section on adultery; struck down by SC in 2018,Cannot be invoked for criminal prosecution post September 2018
+IPC_378,SNATCHING_01,0.90,Base theft section applicable to all snatching cases,Does not apply when force element elevates it to robbery
+IPC_379A,SNATCHING_01,1.0,Specific section for snatching with or without causing hurt,Primary section for phone snatching chain snatching cases
+IPC_379B,SNATCHING_01,0.85,Enhanced punishment when snatching causes hurt to victim,Applies when injury occurs during snatching
+IPC_395,SNATCHING_01,0.75,Robbery section when snatching involves threat or actual hurt,Applies when force or threat of force is used to snatch
+IPC_300,MURDER_01,0.90,Definition section establishing when act amounts to murder,Multiple exceptions under Section 300 can reduce murder to culpable homicide
+IPC_302,MURDER_01,1.0,Primary punishment section always charged in murder cases,Applies when all ingredients of Section 300 are made out
+IPC_141,MURDER_01,0.75,Common intention section applied when murder committed by group,Requires prior meeting of minds between accused persons
+IPC_141,MURDER_01,0.65,When murder is result of criminal conspiracy,Conspiracy must be independently proved beyond murder itself
+IPC_307,ATTEMPT_MURDER_01,1.0,Primary section for attempt to murder when death does not result,Requires act done with intent or knowledge to cause death
+IPC_307,ATTEMPT_MURDER_01,0.60,Attempt to commit culpable homicide not amounting to murder,Applied when intent falls below murder threshold
+IPC_326A,ATTEMPT_MURDER_01,0.55,When attempt to murder involves acid or corrosive substance,Specific to acid attack attempt cases
+IPC_463,FORGERY_01,0.90,Definition section establishing when act constitutes forgery,Intent to cause damage or fraud is essential ingredient
+IPC_464,FORGERY_01,0.80,Establishes what constitutes making a false document,Important for establishing the actus reus of forgery
+IPC_465,FORGERY_01,1.0,Primary punishment section always charged in forgery cases,Always charged alongside definition sections
+IPC_467,FORGERY_01,0.90,For forgery of valuable security will or deed,Higher punishment for serious documents like property deeds wills
+IPC_468,FORGERY_01,0.85,When forgery was specifically for purpose of cheating,Cheating element must be specifically proved
+IPC_471,FORGERY_01,0.95,When forged document was actually used as genuine,Use of the document must be specifically proved
+IPC_466,FORGERY_01,0.75,When court records or public registers are forged,Specific to official and government documents
+IPC_191,FALSE_EVIDENCE_01,1.0,When false statement made on oath in judicial proceedings,Oath must have been administered by competent authority
+IPC_192,FALSE_EVIDENCE_01,0.90,When fake evidence or records are fabricated,Fabrication must be proved; mere suspicion insufficient
+IPC_193,FALSE_EVIDENCE_01,0.95,Punishment section paired with 191/192,Always charged with substantive offence sections
+IPC_141,RIOTING_01,0.90,Defines unlawful assembly which is prerequisite for rioting,Minimum 5 persons must have common unlawful object
+IPC_146,RIOTING_01,0.90,Defines rioting by use of force or violence by unlawful assembly,Force or violence must actually be used not merely threatened
+IPC_147,RIOTING_01,1.0,Primary punishment section for rioting charged in all riot cases,Always charged with definition sections
+IPC_147,RIOTING_01,0.80,Rioting armed with deadly weapons; enhanced punishment,Weapon must actually be carried at time of rioting
+IPC_141,RIOTING_01,0.75,Every member liable for common object of unlawful assembly,Must prove accused was member of unlawful assembly
+IPC_463,CYBER_CRIME_01,0.90,IT Act section for hacking and unauthorised access to computer systems,Requires proving unauthorised access to computer resource
+IPC_463,CYBER_CRIME_01,0.85,Identity theft using computer; using another person's electronic signature,Specific to electronic identity theft scenarios
+IPC_417,CYBER_CRIME_01,0.85,Cheating by personation through computer resource,Applies to online impersonation and digital fraud
+IPC_417,CYBER_CRIME_01,0.80,When online fraud results in financial loss to victim,Requires proving cheating and dishonest inducement online
+IPC_463,CYBER_CRIME_01,0.65,When cyber crime involves creation of fake digital documents,Digital documents covered under IT Act amendment to forgery
+IPC_171B,INHERITANCE_DISPUTE_01,0.40,When inheritance dispute involves bribery to influence succession decisions,Rarely applicable; only when bribery specifically present
+IPC_467,INHERITANCE_DISPUTE_01,0.85,When inheritance dispute involves forged will or succession documents,Forgery of will is specific ground to challenge succession
+IPC_417,INHERITANCE_DISPUTE_01,0.65,When legal heir is cheated out of inheritance through fraud,Requires proving deliberate deception of legal heir
+IPC_411,LOAN_DEFAULT_01,0.70,When loan amount was entrusted and misappropriated criminally,Civil loan defaults without criminal element do not attract this
+IPC_417,LOAN_DEFAULT_01,0.75,When loan was obtained fraudulently with no intention to repay,Fraudulent intent at time of borrowing must be proved
+IPC_417,LOAN_DEFAULT_01,0.80,When cheques given as security for loan bounce on presentation,Requires valid debt and formal notice procedure
+IPC_503,CONSUMER_COMPLAINT_01,0.40,When seller makes threats to consumer demanding payment,Rarely applicable in consumer disputes
+IPC_417,CONSUMER_COMPLAINT_01,0.60,When consumer was cheated by false promises about product or service,Criminal element of deliberate fraud must be established

@@ -1,0 +1,214 @@
+action_id,outcome_id,probability_percentage,influencing_factors
+ACTION_001,OUT_001,85,Strength of evidence presented; cognizable nature of offence; police jurisdiction; promptness of complaint
+ACTION_001,OUT_002,10,Weak evidence; contradictory statements; accused has alibi; political or police connections
+ACTION_001,OUT_004,5,Accused applies for bail after FIR registration in bailable offences
+ACTION_003,OUT_098,45,Willingness of opposite party to settle; strength of legal claim; quality of lawyer's notice
+ACTION_003,OUT_086,15,Limitation period already lapsed when notice sent; notice sent to wrong address
+ACTION_003,OUT_007,30,Where notice establishes liability clearly leading to compensation payment
+ACTION_004,OUT_008,55,Strength of documentary evidence; quality of legal representation; court jurisdiction
+ACTION_004,OUT_086,20,Suit filed beyond limitation period; no cause of action; jurisdiction issue
+ACTION_004,OUT_098,20,Parties reach settlement after suit filed under court mediation
+ACTION_004,OUT_009,60,If injunction relief is also sought along with main suit and urgency shown
+ACTION_005,OUT_003,40,Prima facie case made out; Magistrate satisfied with evidence; prosecution follows up
+ACTION_005,OUT_002,35,Accused successfully challenges evidence; witnesses turn hostile
+ACTION_005,OUT_021,15,High Court quashes proceedings if private complaint abuse of process
+ACTION_006,OUT_019,70,Clear evidence of defect or deficiency; bills and complaint record maintained; forum has jurisdiction
+ACTION_006,OUT_020,25,Consumer cannot prove deficiency; limitation period exceeded; lack of documentation
+ACTION_006,OUT_074,65,Refund with compensation is common consumer forum remedy when deficiency proved
+ACTION_007,OUT_007,75,Medical evidence and pattern of violence established; interim protection order obtained
+ACTION_007,OUT_009,80,Protection order and residence order typically granted when DV complaint filed
+ACTION_007,OUT_016,70,Maintenance relief under DV Act granted alongside protection if income differential shown
+ACTION_007,OUT_098,35,Parties reconcile under mediation ordered by court during DV proceedings
+ACTION_008,OUT_005,60,No prior criminal record; not a flight risk; custodial interrogation not needed; cooperating
+ACTION_008,OUT_077,40,Serious non-bailable offence; high flight risk; custodial interrogation required; repeated offence
+ACTION_009,OUT_004,65,Bailable offence or good behaviour; sureties available; not a flight risk; first offence
+ACTION_009,OUT_006,35,Non-bailable serious offence; repeated offence; flight risk; influential victim
+ACTION_010,OUT_014,65,Grounds of divorce clearly established; sufficient proof of irretrievable breakdown
+ACTION_010,OUT_015,30,Insufficient grounds proved; parties reconcile; court finds no breakdown
+ACTION_010,OUT_016,75,Maintenance simultaneously awarded when income differential exists between spouses
+ACTION_010,OUT_018,60,Child custody decided as part of divorce proceedings based on best interest
+ACTION_011,OUT_016,80,Income differential between parties established; spouse or child unable to maintain themselves
+ACTION_011,OUT_017,20,Applicant found to have sufficient independent income; misuse of proceedings
+ACTION_012,OUT_022,70,Legally enforceable debt proved; legal notice properly sent and served; limitation complied
+ACTION_012,OUT_023,30,Cheque issued as security not for debt; gift cheque; limitation expired; notice defective
+ACTION_013,OUT_009,65,Prima facie case shown; irreparable injury demonstrated; balance of convenience in plaintiff favour
+ACTION_013,OUT_010,35,Plaintiff cannot show irreparable injury; balance of convenience favours defendant
+ACTION_014,OUT_033,55,Fundamental right clearly violated; no alternative remedy; locus standi established
+ACTION_014,OUT_034,40,No merit; alternative remedy exists; delay in filing; no violation established
+ACTION_015,OUT_033,45,Error in lower court judgment; new evidence; perverse findings; legal question of importance
+ACTION_015,OUT_034,40,Lower court findings not perverse; factual disputes not re-examined on appeal
+ACTION_015,OUT_099,15,Case transferred to appropriate court; remanded for fresh hearing
+ACTION_016,OUT_033,35,Jurisdictional error or material irregularity in lower court proceedings
+ACTION_016,OUT_034,60,No jurisdictional defect; merely wrong decision not ground for revision
+ACTION_017,OUT_033,20,Clear error apparent on record; new evidence of crucial nature available
+ACTION_017,OUT_034,75,Review petition filed on grounds of disagreement not error; courts very reluctant to review
+ACTION_018,OUT_057,55,Valid contract; readiness and willingness shown; no time essence clause breached
+ACTION_018,OUT_058,40,Time essence; plaintiff not ready and willing; unfair hardship; legal defects in contract
+ACTION_019,OUT_011,60,Clear chain of title established; no better title shown by defendant
+ACTION_019,OUT_086,25,Limitation expired; plaintiff had knowledge of adverse claim long ago
+ACTION_020,OUT_024,65,Co-ownership clearly established; no prior partition; legal shares ascertainable
+ACTION_020,OUT_069,60,Equal shares decreed when all co-owners get their proportion after commission survey
+ACTION_021,OUT_008,60,Debt clearly proved by documents; defendant cannot show payment or discharge
+ACTION_021,OUT_086,25,Suit beyond limitation; no acknowledgement of debt to extend limitation
+ACTION_021,OUT_098,20,Parties settle before decree with agreed payment plan
+ACTION_022,OUT_008,70,Decree is final; judgment debtor has attachable assets; no stay from higher court
+ACTION_022,OUT_100,20,Higher court stays execution pending appeal filed by judgment debtor
+ACTION_023,OUT_062,45,Viable resolution plan submitted; creditors approve; business can be revived
+ACTION_023,OUT_061,40,No feasible resolution plan; business unviable; liquidation ordered by tribunal
+ACTION_024,OUT_027,60,Valid arbitration clause; experienced arbitrator; clear evidence; arbitration well conducted
+ACTION_024,OUT_028,35,Respondent has better evidence; claimant has procedural lapses; weak legal position
+ACTION_025,OUT_026,55,Both parties genuinely willing to settle; skilled mediator; mutual concession possible
+ACTION_025,OUT_034,40,Mediation fails; parties return to litigation; adversarial approach continues
+ACTION_026,OUT_025,70,Compoundable matter; both parties agree to terms; monetary settlement possible
+ACTION_026,OUT_034,30,No agreement reached; matter returns to regular court for adjudication
+ACTION_027,OUT_009,60,Genuine and credible threat to life; police satisfied; senior officer direction
+ACTION_027,OUT_086,30,Threat not substantiated; police finds no credible danger; limited resources
+ACTION_028,OUT_021,55,FIR is abuse of process; civil dispute dressed as criminal; no prima facie case
+ACTION_028,OUT_034,40,Prima facie case made out; quashing refused; court says trial must proceed
+ACTION_029,OUT_002,40,Insufficient evidence in chargesheet; contradictions; no prime facie case in chargesheet
+ACTION_029,OUT_003,50,Chargesheet has sufficient material; discharge application rejected; trial proceeds
+ACTION_030,OUT_085,50,Account frozen quickly; cybercrime cell responds promptly; accused identifiable
+ACTION_030,OUT_001,70,Cyber complaint leads to FIR registration when prima facie offence established
+ACTION_030,OUT_086,25,Evidence deleted by accused; jurisdiction issues; foreign servers; encrypted data
+ACTION_031,OUT_031,70,Information not exempted; PIO has information; timely application; first appeal if needed
+ACTION_031,OUT_032,30,Exemption applies; personal information; national security; ongoing investigation
+ACTION_032,OUT_007,40,Human rights violation clearly proved; commission recommendation followed by government
+ACTION_032,OUT_034,50,Recommendations not binding; state challenges; political interference
+ACTION_033,OUT_007,50,Women's rights clearly violated; commission has jurisdiction; victim cooperates
+ACTION_033,OUT_033,35,Commission directs action by authorities leading to redressal
+ACTION_034,OUT_039,45,Termination proved illegal; reinstatement beneficial to employee; no loss of confidence
+ACTION_034,OUT_040,40,Reinstatement impractical; compensation in lieu ordered; conduct issues present
+ACTION_034,OUT_041,15,Termination found legal; misconduct proved; employee's case unsubstantiated
+ACTION_035,OUT_097,65,Debt clearly documented; no genuine dispute about amount; assets identifiable
+ACTION_035,OUT_086,20,Debt disputed as not existing; limitation period expired; no valid security
+ACTION_036,OUT_094,55,Environmental violation clearly proved by scientific evidence; NGT acts expeditiously
+ACTION_036,OUT_034,40,Violation not established; environmental impact negligible; industry complied with norms
+ACTION_037,OUT_083,60,Harassment clearly established by ICC; policy violation proved; employer acts on report
+ACTION_037,OUT_034,30,ICC finds no harassment; complaint not substantiated; accused cleared
+ACTION_038,OUT_063,55,Registered trademark proved; infringement clear; confusion likely; damages demonstrable
+ACTION_038,OUT_010,35,Defendant shows trademark is invalid; prior use; honest concurrent use defence
+ACTION_039,OUT_063,50,Copyright subsists; infringement substantial; no fair use defence available
+ACTION_039,OUT_010,40,Fair use defence succeeds; copyright not subsisting; no substantial reproduction
+ACTION_040,OUT_064,45,Valid patent; infringement technically proved; no prior art invalidating patent
+ACTION_040,OUT_010,45,Patent found invalid; prior art exists; infringement not technically proved
+ACTION_041,OUT_042,80,Legal heir clearly identifiable; no dispute; death certificate and relationship proof clear
+ACTION_041,OUT_034,15,Multiple claimants; disputed relationship; court finds no entitlement
+ACTION_042,OUT_043,75,Will valid; testamentary capacity clear; no undue influence; executor suitable
+ACTION_042,OUT_044,20,Will found invalid; forgery; undue influence; testamentary incapacity at time of making
+ACTION_043,OUT_007,70,Decree reversed; benefits obtained clearly quantifiable; no prejudice to respondent
+ACTION_043,OUT_034,25,Restitution refused; change of position defence; benefits cannot be identified
+ACTION_044,OUT_100,80,Caveat filed before application; court gives notice; no surprise ex-parte order
+ACTION_044,OUT_009,70,Caveator heard; injunction not granted ex-parte; interests protected pending hearing
+ACTION_045,OUT_033,55,Intervenor has substantial legal interest; intervention benefits the court proceedings
+ACTION_045,OUT_034,40,No direct legal interest shown; court rejects intervention; proceedings continue
+ACTION_046,OUT_057,60,Mistake clearly proved; document does not reflect true intention of parties
+ACTION_046,OUT_058,35,No mistake; party seeks to use rectification to change agreed terms
+ACTION_047,OUT_014,90,Legal requirements met; notice period complied with; both parties willing; witnesses present
+ACTION_047,OUT_034,10,One party withdraws consent; objection sustained during notice period
+ACTION_048,OUT_042,85,Nomination clearly specified; relationship proved; nominee claims within limitation
+ACTION_048,OUT_044,10,Multiple nominees with conflicting claims; nomination disputed by legal heirs
+ACTION_049,OUT_049,80,Eligibility criteria met; income below threshold; relevant offence or civil matter
+ACTION_049,OUT_034,15,Income above threshold; ineligible category; legal services authority discretion
+ACTION_050,OUT_019,65,Clear service deficiency; within ombudsman jurisdiction; proper documentation
+ACTION_050,OUT_020,30,No deficiency found; matter outside ombudsman scope; limitation exceeded
+ACTION_051,OUT_057,70,Document properly executed; parties appear; stamp duty paid; registration completed
+ACTION_051,OUT_086,20,Defective document; parties do not appear; stamp duty evasion detected
+ACTION_052,OUT_056,60,Willful disobedience of court order clearly proved; no reasonable excuse
+ACTION_052,OUT_034,35,Apology accepted; technical non-compliance excused; no willful disobedience found
+ACTION_053,OUT_035,70,Detention illegal; no legal authority; habeas corpus shows illegal custody
+ACTION_053,OUT_034,25,Detention found legal; warrants were valid; preventive detention sustained
+ACTION_054,OUT_033,55,Statutory duty clearly exists; public authority failed without reason; no alternative remedy
+ACTION_054,OUT_034,40,No mandatory duty; discretionary power; alternative remedy available
+ACTION_055,OUT_021,45,Jurisdictional error clear; quasi-judicial body exceeded jurisdiction
+ACTION_055,OUT_034,50,No jurisdictional error; merely wrong decision within jurisdiction; certiorari refused
+ACTION_056,OUT_033,40,Clear excess of jurisdiction; preventive remedy sought timely
+ACTION_056,OUT_034,55,Authority acting within jurisdiction; prohibition refused
+ACTION_057,OUT_031,90,Documents in order; police verification clear; no criminal record; timely application
+ACTION_057,OUT_086,10,Criminal record; adverse police verification; documents defective
+ACTION_058,OUT_046,70,Accident clearly proved; negligence established; victim identified; insurance valid
+ACTION_058,OUT_073,40,Serious disability; high income of victim; future medical expenses calculated
+ACTION_058,OUT_086,20,Limitation expired; negligence not proved; vehicle not insured; third party not liable
+ACTION_059,OUT_036,50,Defamation clearly proved; publication to third parties; no defence of truth or public interest
+ACTION_059,OUT_037,45,Truth defence succeeds; public figure with reduced protection; public interest established
+ACTION_060,OUT_009,65,Irreparable injury shown; prima facie case clear; balance favours plaintiff
+ACTION_060,OUT_010,30,No irreparable injury; balance favours defendant; strong public interest in defendant's act
+ACTION_061,OUT_025,85,Parties genuinely agree; terms are equitable; document properly executed
+ACTION_061,OUT_034,15,One party coerced; terms unconscionable; court refuses to enforce agreement
+ACTION_062,OUT_007,85,Caste established by community records; revenue verification positive; no dispute
+ACTION_062,OUT_034,10,Caste claim disputed; no community evidence; revenue records contrary
+ACTION_063,OUT_007,80,Income clearly provable by salary slips or business records
+ACTION_063,OUT_034,15,Income disputes; no supporting documents; verification fails
+ACTION_064,OUT_057,80,Sale deed or succession documents proper; fees paid; no dispute raised
+ACTION_064,OUT_086,15,Disputed title; adverse claims; pending litigation prevents mutation
+ACTION_065,OUT_031,90,Correct documents submitted; biometric verification successful; genuine error
+ACTION_065,OUT_034,10,Insufficient documents for correction; identity cannot be established
+ACTION_066,OUT_031,95,Valid identity and address proof; online application; fee paid; no prior PAN
+ACTION_066,OUT_086,5,Duplicate PAN detected; documents forged; verification fails
+ACTION_067,OUT_007,75,Proper books of account; returns filed timely; tax paid correctly
+ACTION_067,OUT_070,25,Late filing; incorrect returns; tax evasion detected; penalty imposed
+ACTION_068,OUT_007,80,Income properly declared; tax paid; refund processed if overpaid
+ACTION_068,OUT_070,20,Income concealed; wrong form used; assessment proceedings initiated
+ACTION_069,OUT_007,85,All regulatory requirements met; DIN and DSC obtained; name approved
+ACTION_069,OUT_034,10,Name objected; document deficiency; compliance issues with ROC
+ACTION_070,OUT_007,85,Partnership deed valid; fees paid; all partners appear; business activity legal
+ACTION_070,OUT_034,10,Deed defective; partners minor; illegal business activity proposed
+ACTION_071,OUT_007,85,DPIN obtained; LLP agreement drafted; name approved; ROC processes
+ACTION_071,OUT_034,10,Name conflicts; compliance issues; partner eligibility issues
+ACTION_072,OUT_007,75,Business premises compliant; trade is legal; fees paid; no objection from neighbours
+ACTION_072,OUT_034,20,Non-compliance with regulations; commercial activity in residential zone
+ACTION_073,OUT_063,70,Trademark is distinctive; not similar to existing marks; proper class selected
+ACTION_073,OUT_034,25,Trademark refused as deceptively similar; purely descriptive; well-known mark conflict
+ACTION_074,OUT_057,90,Original work submitted; proper application form; fee paid; no objection
+ACTION_074,OUT_034,10,Work not original; objection from prior rights holder sustained
+ACTION_075,OUT_064,50,Novel non-obvious industrial application; complete specification; examination passed
+ACTION_075,OUT_034,45,Prior art found; obviousness objection sustained; insufficient disclosure
+ACTION_076,OUT_057,85,Document valid; stamp duty paid; parties appear with witnesses; biometric done
+ACTION_076,OUT_086,15,Under-stamping detected; parties fail to appear; disputed document registration refused
+ACTION_077,OUT_001,65,Commissioner satisfied; serious cognizable offence; FIR direction issued
+ACTION_077,OUT_034,30,Commissioner finds complaint frivolous; civil dispute mislabelled as criminal
+ACTION_078,OUT_066,35,False statement clearly contradicted by undeniable evidence; judicial proceeding proved
+ACTION_078,OUT_034,60,Perjury very difficult to prove; inconsistencies explained; no malafide intent found
+ACTION_079,OUT_031,70,Service not provided within stipulated time; right to service law applicable; proper appeal
+ACTION_079,OUT_034,25,Service provided in time; officials justify delay; case dismissed
+ACTION_080,OUT_007,80,Food business compliant with safety standards; premises inspected; documents in order
+ACTION_080,OUT_034,15,Non-compliance with food safety norms; premises substandard; application incomplete
+ACTION_081,OUT_071,65,Employment and unpaid wages clearly proved; employer has capacity to pay
+ACTION_081,OUT_041,25,Wages were paid but disputed; employment not proved; limitation exceeded
+ACTION_082,OUT_072,85,UAN active; employment proved; separation completed; KYC verified; claim genuine
+ACTION_082,OUT_034,10,UAN inactive; employer not deposited PF; disputed employment period
+ACTION_083,OUT_072,75,5 years completed; separation proved; last salary established; employer confirms
+ACTION_083,OUT_034,20,Less than 5 years service; disputed employment; employer disputes calculation
+ACTION_084,OUT_007,80,Pregnancy proved; employment proved; employer refuses maternity pay; complaint filed
+ACTION_084,OUT_034,15,Employer paid all dues; complaint filed after limitation; employee not entitled
+ACTION_085,OUT_075,65,Work-related injury/death clearly proved; employer negligence established; wage records clear
+ACTION_085,OUT_034,30,Injury outside course of employment; negligence not proved; wage records disputed
+ACTION_086,OUT_007,85,ESI card valid; treatment in approved hospital; claim properly documented
+ACTION_086,OUT_034,10,Employee not registered under ESI; treatment not covered; documents incomplete
+ACTION_087,OUT_007,60,Assessment genuinely excessive; supporting valuation documents submitted
+ACTION_087,OUT_034,35,Assessment found correct; comparable properties support the assessment
+ACTION_088,OUT_031,90,Valid documents submitted; correction clearly needed; electoral roll updated
+ACTION_088,OUT_034,5,Documents insufficient; identity cannot be established; objection period pending
+ACTION_089,OUT_007,40,Clear professional misconduct proved; bar council satisfied; disciplinary action taken
+ACTION_089,OUT_034,55,Misconduct not substantiated; professional judgment not misconduct; complaint dismissed
+ACTION_090,OUT_060,75,Senior citizen incapable of maintaining; children have capacity; maintenance fixed
+ACTION_090,OUT_034,20,Children found incapable of paying; senior citizen has own means; no maintenance
+ACTION_091,OUT_007,35,Medical negligence clearly proved; council takes serious view; license action
+ACTION_091,OUT_034,60,Medical judgment call accepted; standard of care met; complaint dismissed
+ACTION_092,OUT_045,60,RERA registered builder; delay or defect clearly proved; possession ordered with penalty
+ACTION_092,OUT_084,55,Refund with interest ordered when possession not possible or buyer wants refund
+ACTION_093,OUT_019,65,Billing dispute or service deficiency clearly proved; ombudsman finds in favour
+ACTION_093,OUT_020,30,No deficiency found; technical issue beyond operator control; limitation exceeded
+ACTION_094,OUT_080,75,Suitability of proposed guardian proved; minor's welfare requires guardian
+ACTION_094,OUT_034,20,Natural parent objects; court finds natural parent suitable; guardian not needed
+ACTION_095,OUT_079,70,Adoptive parents eligible; child welfare committee approves; court satisfied
+ACTION_095,OUT_034,25,Eligibility criteria not met; child not free for adoption; consent lacking
+ACTION_096,OUT_078,55,Fraud or misrepresentation in sale deed clearly proved; original owner's right established
+ACTION_096,OUT_034,40,Bona fide purchaser for value; no fraud proved; specific performance defence
+ACTION_097,OUT_016,65,Divorce granted; alimony not settled; financial need and spouse capacity proved
+ACTION_097,OUT_017,30,Spouse shows claimant has sufficient means; conduct disqualifies from alimony
+ACTION_098,OUT_018,70,Best interest of child clearly with petitioner; stability and resources available
+ACTION_098,OUT_034,25,Best interest found with respondent; shared custody or access ordered
+ACTION_099,OUT_011,55,Prior peaceful possession proved; illegal dispossession by defendant established
+ACTION_099,OUT_034,40,Dispossession was legal; court order or right of entry existed; possession not proved
+ACTION_100,OUT_019,60,Billing error or service deficiency clearly shown; electricity company in default
+ACTION_100,OUT_020,35,Technical issue not company's fault; consumer reading error; limitation exceeded
